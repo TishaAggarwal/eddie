@@ -1,0 +1,28 @@
+h3 {
+  margin-right:530px;
+}
+
+  .man {
+    width: 310px;
+height: 550px;
+padding-bottom: 50px;
+  }
+
+
+  @media screen and (max-width: 767px) {
+    
+
+    .div1 {
+      display: none;
+    }
+
+    .div80 {
+   margin-left:-300px;
+    } 
+
+    .title {
+      margin-left:-300px;
+    }
+  }
+
+ 
